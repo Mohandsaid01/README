@@ -63,8 +63,7 @@
 <h3>Education</h3>
 <ul>
   <li><strong>Institut Teccart</strong> — DEC en Programmation</li>
-  <li><strong>Udemy</strong> — Dév. web, mobile & IA</li>
-  <li><strong>freeCodeCamp</strong> — Certifs développement web</li>
+ 
 </ul>
 
 <!-- FORUMS -->
@@ -74,5 +73,4 @@
   <a href="#" target="_blank"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=fff"></a>
 </p>
 
-<!-- FOOTNOTE (optionnel) -->
-<sub>PS : remplace les liens <code>#</code> ci-dessus quand tu voudras publier tes réseaux 😉</sub>
+
